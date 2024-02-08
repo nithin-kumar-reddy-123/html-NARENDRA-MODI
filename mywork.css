@@ -1,0 +1,41 @@
+p{
+  color:blue
+}
+h1{
+  color:red;
+  color:green !important;
+}
+
+h3{
+  color:red
+}
+h1{
+ border: 5px solid black;
+ border: top 2px;
+ border: width 10px;
+}
+class{
+  border: 10px;
+}
+h5{
+  color:black
+}
+.box {
+  border: 1px solid rgb(255, 0, 157);
+  border-width: 2px;
+  color:red
+
+}
+h2>h4{
+  color:gold
+}
+
+@media (min-size: 5px) {
+  h1{
+    font-size: 14px;
+    background-color: aquamarine;
+  }
+
+  
+  
+}
